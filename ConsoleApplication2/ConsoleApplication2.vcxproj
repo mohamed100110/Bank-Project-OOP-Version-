@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -130,6 +130,10 @@
     <ClInclude Include="..\..\my date library oop\my date library oop\clsDate.h" />
     <ClInclude Include="..\..\my date library oop\my date library oop\clsString.h" />
     <ClInclude Include="clsAddNewUserScreen.h" />
+    <ClInclude Include="clsCurrency.h" />
+    <ClInclude Include="clsCurrencyCalculator.h" />
+    <ClInclude Include="clsCurrencyList.h" />
+    <ClInclude Include="clsCurrencyMainMenue.h" />
     <ClInclude Include="clsDeleteClientScreen.h" />
     <ClInclude Include="clsAddNewClientScreen.h" />
     <ClInclude Include="clsBankClient.h" />
@@ -137,6 +141,7 @@
     <ClInclude Include="clsDeleteUserScreen.h" />
     <ClInclude Include="clsDepositScreen.h" />
     <ClInclude Include="clsFindClientScreen.h" />
+    <ClInclude Include="clsFindCurrency.h" />
     <ClInclude Include="clsInputValidate.h" />
     <ClInclude Include="clsListUsersScreen.h" />
     <ClInclude Include="clsLoginScreen.h" />
@@ -151,6 +156,7 @@
     <ClInclude Include="clsTransferLogScreen.h" />
     <ClInclude Include="clsTransferScreen.h" />
     <ClInclude Include="clsUpdateClientScreen.h" />
+    <ClInclude Include="clsUpdateCurrency.h" />
     <ClInclude Include="clsUpdateUserScreen.h" />
     <ClInclude Include="clsUser.h" />
     <ClInclude Include="clsUtil.h" />
