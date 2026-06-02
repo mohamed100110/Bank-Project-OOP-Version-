@@ -8,29 +8,33 @@ This project is an enhanced version of a previous banking system, completely red
 
 ## Key Features
 
-- Client account management.
-- User management system.
-- Deposit and withdrawal operations.
-- Money transfers between accounts.
-- Transaction tracking and logging.
-- Transfer history tracking and auditing.
-- Login history tracking and auditing.
-- Password encryption for enhanced security.
-- User authentication and permission-based access control.
-- Robust input validation system to prevent invalid data entry.
-- Improved error handling and exception management.
-- Modular and reusable class-based design.
-- File-based data persistence.
+* Client account management.
+* User management system.
+* Deposit and withdrawal operations.
+* Money transfer between accounts.
+* Currency management system.
+* Currency exchange rate management.
+* Currency conversion between different currencies.
+* Multi-currency support.
+* Transaction tracking and logging.
+* Transfer history tracking and auditing.
+* Login history tracking and auditing.
+* Password encryption for enhanced security.
+* User authentication and permission-based access control.
+* Robust input validation system to prevent invalid data entry.
+* Improved error handling and exception management.
+* Modular and reusable class-based design.
+* File-based data persistence.
 
 ## Technologies Used
 
-- C++
-- Object-Oriented Programming (OOP)
-- Classes
-- Encapsulation
-- Abstraction
-- Inheritance
-- File Handling
+* C++
+* Object-Oriented Programming (OOP)
+* Classes
+* Encapsulation
+* Abstraction
+* Inheritance
+* File Handling
 
 ## Project Goals
 
